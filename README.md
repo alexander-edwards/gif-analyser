@@ -1,23 +1,12 @@
 # gif-analyser
 
-This program takes a directory of GIFs and transforms each GIF into a series of time, x, y coordinates that describes how to draw each character.
-
-/////////////////////////////////////////////////////////////////////////
-////  ///  /////  ///////     ///  /////        ////          ///////////
-////  ///  ////    //////  /   //  /////////   ////////   ///////////////
-////       ///  /   /////  //   /  ////////  //////////   ///////////////
-////  ///  //       /////  ///     ///////  ///////////   ///////////////
-////  ///  //  ///  /////  ////    //////       ////          ///////////
-/////////////////////////////////////////////////////////////////////////
-
-
 Overview
 
-This program takes a directory of GIFs and transforms each GIF into a series of time, x, y coordinates that can be integrated with the Novint Falcon.  
+This program takes a directory of GIFs and transforms each GIF into a series of time, x, y coordinates that describes how to draw each character.
 
 This program uses a database of Chinese character GIFs that show the sequence of the strokes. 
 
-Chinese database: https://github.com/nmarley/chinese-char-animations
+Chinese database: http://208.111.35.22/characters/learn-to-write-chinese/
 
 Files Contained 
 
